@@ -1,0 +1,17 @@
+/*
+ * sircus-tools-display
+ ================================================== */
+
+.t-none        { display:none !important; }
+.t-block       { display:block !important; }
+.t-inlineBlock { display:inline-block !important; }
+.t-inline      { display:inline !important; }
+
+.t-table {
+  display: table !important;
+  table-layout: fixed !important;
+  width:100% !important;
+}
+.t-table-col {
+  display: table-cell !important;
+}
