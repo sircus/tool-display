@@ -18,14 +18,14 @@ $ npm install sircus-tools-display
 
 input.css
 ```css
-@import "sircus-tools-display"
+@import "sircus-tools-display";
 ```
 
 > use sass:
 
 input.scss
 ```css
-@import "node_modules/sircus-tools-display/converted"
+@import "node_modules/sircus-tools-display/converted";
 ```
 
 
