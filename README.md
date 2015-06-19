@@ -2,11 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-tools-display.svg?style=flat)](https://www.npmjs.com/package/sircus-tools-display)
 
-> A display tools Module for Sircus.
-
 ## Installation
 
-> use npm:
+> npm:
 
 ```bash
 $ npm install sircus-tools-display
@@ -14,18 +12,18 @@ $ npm install sircus-tools-display
 
 ## Usage
 
-> use cssnext:
+> cssnext:
 
 input.css
 ```css
 @import "sircus-tools-display";
 ```
 
-> use sass:
+> sass:
 
 input.scss
-```css
-@import "node_modules/sircus-tools-display/converted";
+```scss
+@import "./node_modules/sircus-tools-display/converted";
 ```
 
 
