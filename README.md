@@ -34,6 +34,8 @@ input.scss
 <div class="t-block"></div>
 <div class="t-inlineBlock"></div>
 <div class="t-inline"></div>
+<div class="t-table"></div>
+<div class="t-tableCell"></div>
 ```
 
 
