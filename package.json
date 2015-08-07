@@ -1,10 +1,10 @@
 {
   "name": "sircus-tools-display",
   "description": "Css display tools Module for Sircus.",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalabe",
+    "modular",
     "design",
     "css",
     "cssnext",
