@@ -6,3 +6,5 @@
 .t-block       { display:block !important; }
 .t-inlineBlock { display:inline-block !important; }
 .t-inline      { display:inline !important; }
+.t-table       { display:table !important; }
+.t-tableCell   { display:table-cell !important; }
