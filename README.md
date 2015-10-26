@@ -32,6 +32,7 @@ input.scss
 ```html
 <div class="t-none"></div>
 <div class="t-block"></div>
+<div class="t-flex"></div>
 <div class="t-inlineBlock"></div>
 <div class="t-inline"></div>
 <div class="t-table"></div>
